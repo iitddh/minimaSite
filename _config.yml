@@ -20,10 +20,9 @@
 
 title: IIT Delhi Digital Humanities
 email: arjunghosh[at]iitd[dot]ac[dot]in
-description: >- # this means to ignore newlines until "baseurl:"
-  I really want to establish Computational Humanities in India. To do so need to establish Digital Humanities in IITD. But there is absolutely no support. I have an uphill task. I am tired. And I am angry.
+description: >- I really want to establish Computational Humanities in India. To do so need to establish Digital Humanities in IITD. But there is absolutely no support. I have an uphill task. I am tired. And I am angry.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "iitddh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: arjun_ghosh
 github_username:  iitddh
 
