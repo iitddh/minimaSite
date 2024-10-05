@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Building DH at IIT Delhi"
 date:   2024-10-05 08:25:36 +0530
 categories: jekyll update
 ---
