@@ -28,9 +28,12 @@ twitter_username: arjun_ghosh
 github_username:  iitddh
 
 # Build settings
-theme: minima
+# theme: minima
+theme: jekyll-theme-yat
 plugins:
   - jekyll-feed
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
